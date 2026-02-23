@@ -1,7 +1,13 @@
 .input:focus {
+    outline: none;
+    border: 2px solid lightgray;
 }
 
 .input {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
 }
 
 .inputWrapper {
@@ -11,10 +17,16 @@
 }
 
 .errorInput {
+    color: red;
+    border: 2px solid red;
 }
 
 .errorInput:focus {
+    border: 2px solid red;
 }
 
 .error {
+    height: 21px;
+    margin-left: 10px;
+    color: #dd3355;
 }
