@@ -5,6 +5,7 @@
 }
 
 .users {
+    width: 606px;
 }
 
 .buttonsContainer {
@@ -14,10 +15,14 @@
 }
 
 .thead {
+    background: rgba(229, 229, 229, 1);
+;
 }
 
 .nameCol {
+    font-weight: 600;
 }
 
 .ageCol {
+    font-weight: 600;
 }
