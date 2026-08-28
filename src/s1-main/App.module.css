@@ -7,10 +7,15 @@
 }
 
 .hw {
-
+    margin-bottom: 42px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+    border-top: 1px solid rgba(217, 217, 217, 1);
+    border-bottom: 1px solid rgba(217, 217, 217, 1);
 }
 
 .hwTitle {
+    margin-bottom: 10px;
     font-size: 22px;
     font-weight: 600;
     line-height: 27px;
